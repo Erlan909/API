@@ -1,0 +1,19 @@
+html, body {
+    background-color: rgb(240, 226, 210);
+}
+#search{
+    width: 19%;
+    height: 23px;
+    margin-left: 60px;
+    margin-top: 15px;
+    border-radius: 8px;
+}
+#search:hover {
+     background-color: rgb(199, 226, 218);
+}
+#select {
+    width: 94px;
+    height: 27px;
+    border-radius: 5px;
+    margin-left: 16px;
+}
